@@ -1,0 +1,19 @@
+{
+    "name": "harmstyler/twig-extensions",
+    "description": "A set of twig extensions",
+    "require": {
+        "twig/twig": ">=1.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tyler Harms",
+            "email": "tyler.harms@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "HarmsTyler\\Twig": "src/"
+        }
+    }
+}
